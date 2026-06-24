@@ -1,0 +1,6 @@
+{
+  "name": "VoiceType",
+  "description": "An installable desktop app that converts speech to text and automatically copies it to your clipboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
